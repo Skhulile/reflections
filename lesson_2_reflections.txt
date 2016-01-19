@@ -8,3 +8,7 @@ What are some situations when branches would be helpful in keeping your history 
 When trying out a new feature and adding a language, so changes that change the whole game. They help with making sure you don't have overheads
 How do the diagrams help you visualize the branch structure?
 They help in seeing how the commits trace back and finding which commits are reachable
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Commits from both branch are now in one branch
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It's much more easier, it can sometimes represent conflicts
